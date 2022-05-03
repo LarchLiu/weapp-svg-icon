@@ -1,0 +1,2 @@
+<!--components/svgIcon/index.wxml-->
+<view class="{{class}}" style="color: {{color}}; width: {{width}};height: {{height}};--un-icon:{{iconUrl}}" />

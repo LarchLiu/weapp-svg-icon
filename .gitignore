@@ -1,0 +1,16 @@
+.DS_Store
+*.local
+dist
+dist-ssr
+node_modules
+.idea/
+*.log
+
+# local env files
+.env.local
+.env.*.local
+.env.development
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

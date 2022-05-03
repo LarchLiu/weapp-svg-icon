@@ -1,0 +1,13 @@
+{
+  "name": "weapp-svg-icon",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@iconify-json/mdi-light": "^1.1.1"
+  }
+}
