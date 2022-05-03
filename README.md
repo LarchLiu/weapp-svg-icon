@@ -56,7 +56,7 @@ svg 数据有三种方式可以获取:
 
 - 引用 @iconify-json npm 包
   
-  iconify 提供了100+图集和10000+图标，每个图集都有对应的 npm 包，例如: @iconify-json/mdi-light
+  iconify 提供了100+图集和100,000+图标，每个图集都有对应的 npm 包，例如: @iconify-json/mdi-light
 
   安装并引用 npm 包：
 
