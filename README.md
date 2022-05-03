@@ -123,8 +123,8 @@ svg 数据有三种方式可以获取:
 
 ## Thanks
 
-- @antfu - vue 生态圈比较火的大佬，很多有意思的项目。
-- @cyberalien - iconify 真的太方便了，大感谢。
+- [@antfu](https://github.com/antfu) - vue 生态圈比较火的大佬，很多有意思的项目。
+- [@iconify](https://github.com/iconify) - iconify 真的太方便了，大感谢。
 
 ## License
 
