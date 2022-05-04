@@ -1,7 +1,6 @@
 # weapp-svg-icon
 
-基于 [Iconify](https://iconify.design/) 实现的微信小程序图标组件，
-主要用到了 @antfu 的 [Icons in Pure CSS](https://antfu.me/posts/icons-in-pure-css) 解决方案。
+基于 [Iconify](https://iconify.design/)(100,000+ icons) 实现的微信小程序图标组件，主要用到了 @antfu 的 [Icons in Pure CSS](https://antfu.me/posts/icons-in-pure-css) 解决方案。
 
 [![Image](./image.jpg)](./image.jpg)
 
